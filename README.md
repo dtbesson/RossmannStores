@@ -11,4 +11,6 @@ In this project, we:
 - Build a regression model (XGBoost was used here)
 - Draw relevant conclusions.
 
-The information for each store is in the store.csv file, the training data is in the train.csv file, and the testing data is in the test.csv file. The final report is attached as RossmannReport.docx, and the accompanying Jupyter notebook is attached as RossmannCoursework.ipynb.
+The information for each store is in the store.csv file, and the testing data is in the test.csv file. The training data file is too large for Github, but it is of identical format to the test.csv file, with 'Sales' and 'Customers' numbers filled in.
+
+The final report is attached as RossmannReport.docx, and the accompanying Jupyter notebook is attached as RossmannCoursework.ipynb.
